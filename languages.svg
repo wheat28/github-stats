@@ -134,7 +134,7 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #f34b7d; 
-  width: 92.138%;
+  width: 92.131%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
   width: 7.286%;
@@ -151,11 +151,11 @@ div.ellipsis {
   background-color: #b07219; 
   width: 0.019%;
 " class="progress-item"></span><span style="
+  background-color: #00B4AB; 
+  width: 0.010%;
+" class="progress-item"></span><span style="
   background-color: #3572A5; 
   width: 0.008%;
-" class="progress-item"></span><span style="
-  background-color: #00B4AB; 
-  width: 0.003%;
 " class="progress-item"></span><span style="
   background-color: #6866fb; 
   width: 0.001%;
@@ -188,7 +188,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C++</span>
-  <span class="percent">92.14%</span>
+  <span class="percent">92.13%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -274,6 +274,22 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
+      style="fill: #00B4AB;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">Dart</span>
+  <span class="percent">0.01%</span>
+</li>
+<li style="animation-delay: 1200ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
       style="fill: #3572A5;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -285,22 +301,6 @@ div.ellipsis {
   ></path></svg>
   <span class="lang">Python</span>
   <span class="percent">0.01%</span>
-</li>
-<li style="animation-delay: 1200ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
-      style="fill: #00B4AB;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">Dart</span>
-  <span class="percent">0.00%</span>
 </li>
 <li style="animation-delay: 1350ms;">
   <svg 
